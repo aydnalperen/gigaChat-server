@@ -1,2 +1,2 @@
 # gigaChat-server
-A char server for absolute dominant chads
+A chat server for absolute dominant chads
